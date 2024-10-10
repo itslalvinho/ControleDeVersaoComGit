@@ -12,3 +12,4 @@ C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\refint\ControleDeVersaoComG
 C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.pdb
 C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.genruntimeconfig.cache
 C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ref\ControleDeVersaoComGit.dll
+c:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.sourcelink.json
