@@ -1,0 +1,14 @@
+C:\Users\AVR\ControleDeVersaoComGit\bin\Debug\net8.0\ControleDeVersaoComGit.exe
+C:\Users\AVR\ControleDeVersaoComGit\bin\Debug\net8.0\ControleDeVersaoComGit.deps.json
+C:\Users\AVR\ControleDeVersaoComGit\bin\Debug\net8.0\ControleDeVersaoComGit.runtimeconfig.json
+C:\Users\AVR\ControleDeVersaoComGit\bin\Debug\net8.0\ControleDeVersaoComGit.dll
+C:\Users\AVR\ControleDeVersaoComGit\bin\Debug\net8.0\ControleDeVersaoComGit.pdb
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.AssemblyInfoInputs.cache
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.AssemblyInfo.cs
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.csproj.CoreCompileInputs.cache
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.dll
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\refint\ControleDeVersaoComGit.dll
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.pdb
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ControleDeVersaoComGit.genruntimeconfig.cache
+C:\Users\AVR\ControleDeVersaoComGit\obj\Debug\net8.0\ref\ControleDeVersaoComGit.dll
